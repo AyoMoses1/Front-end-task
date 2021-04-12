@@ -1,2 +1,3 @@
 # Front-end-task
-Lik to my Repo: https://github.com/AyoMoses1/Front-end-task/tree/main/zuri-responsive-design-starter
+Host Link:  
+https://ayomoses1.github.io/Front-end-task/
